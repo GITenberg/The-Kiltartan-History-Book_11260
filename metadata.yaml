@@ -1,5 +1,5 @@
 _repo: The-Kiltartan-History-Book_11260
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Gregory, William Robert
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '38200'
     url: http://www.gutenberg.org/2009/agents/38200
     wikipedia: http://en.wikipedia.org/wiki/Robert_Gregory_%28cricketer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gregory, Lady
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4092
     wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
 description: The Kiltartan history book -- Some broadsheet ballads of the wars.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11260#The-Kiltartan-History-Book
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
